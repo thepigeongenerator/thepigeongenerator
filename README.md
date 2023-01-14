@@ -1,16 +1,2 @@
-### Hi there 👋
-
-<!--
-**QuinnBitz/QuinnBitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Software Development at school
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: quinnderooij@gmail.com
-- 😄 Pronouns: him/he
-- ⚡ Fun fact: ...
--->
+### Hello!
+I am a student in the Netherlands studying software development. I do.. stuff, I guess. Feel free to look around the emptiness of my largely private account!
