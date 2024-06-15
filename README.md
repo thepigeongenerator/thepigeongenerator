@@ -1,4 +1,4 @@
-![wallpaper](./Blocks-Wallpaper.png)
+![wallpaper](./sinx*y)
 
 ### Hello!
 I am a software development student in the Netherlands. Programming is my hobby and I like making things myself. I mainly focus around low-level development, but I'd like to think I go wherever I kinda want to go.<br/>
